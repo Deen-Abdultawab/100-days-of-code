@@ -14,5 +14,5 @@
 
 **Thoughts**: I decided to start with the simplest one for cofidence. Didn't have much problem on this particular project.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [JavaScript Counter](https://javascript-counter-7pa25lbuc-abdultawab.vercel.app)
 
