@@ -23,7 +23,7 @@
 
 **Thoughts**: Spent the past ten (10) days building a full functional todo app, faced some challenges and will be pausing it for a while, go read and learn some more then get back to it.
 
-**Link(s) to work**: [Todo App](http://www.example.com)
+**Link(s) to work**: [Todo App](https://todo-nxnjp135u-abdultawab.vercel.app)
 
 ### Day 12: August 24, 2022
 
@@ -31,6 +31,6 @@
 
 **Thoughts**: A basic project, to help get back on my feet. Been drained working on the Todo App.
 
-**Link(s) to work**: [Color Flipper](http://www.example.com)
+**Link(s) to work**: [Color Flipper]([https://100-days-of-code-7ax1gk650-abdultawab.vercel.app](https://color-flipper-nm9mvl9ws-abdultawab.vercel.app))
 
 
