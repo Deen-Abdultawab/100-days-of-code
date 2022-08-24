@@ -12,7 +12,7 @@
 
 **Today's Progress**: Built a JavaScript counter.
 
-**Thoughts**: I decided to start with the simplest one for cofidence. Didn't have much problem on this particular project.Somehow the link attached comes off wierd. click here https://todo-m2p0zs5j2-abdultawab.vercel.app
+**Thoughts**: I decided to start with the simplest one for cofidence. Didn't have much problem on this particular project.Somehow the link attached comes off wierd.
 
 **Link(s) to work**: [JavaScript Counter](https://javascript-counter-7pa25lbuc-abdultawab.vercel.app)
 
