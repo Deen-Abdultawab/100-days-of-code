@@ -31,6 +31,6 @@
 
 **Thoughts**: A basic project, to help get back on my feet. Been drained working on the Todo App.
 
-**Link(s) to work**: [Color Flipper]([https://100-days-of-code-7ax1gk650-abdultawab.vercel.app](https://color-flipper-nm9mvl9ws-abdultawab.vercel.app))
+**Link(s) to work**: [Color Flipper](https://color-flipper-nm9mvl9ws-abdultawab.vercel.app)
 
 
