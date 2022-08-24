@@ -23,7 +23,7 @@
 
 **Thoughts**: Spent the past ten (10) days building a full functional todo app, faced some challenges and will be pausing it for a while, go read and learn some more then get back to it.
 
-**Link(s) to work**: [Todo App](https://todo-nxnjp135u-abdultawab.vercel.app)
+**Link(s) to work**: [Todo App](https://todo-m2p0zs5j2-abdultawab.vercel.app)
 
 ### Day 12: August 24, 2022
 
